@@ -1,0 +1,34 @@
+1. Filled the head element with what I understand to be the necessary elements.
+ 
+2. There is an html template now called "skinny_panda_html_template" and saved 
+in Design_Guide_Assets
+
+3. There are 5 pages already created: "edenshome", "abouteden", "edensservicees", 
+"recruitment" and "contacteden"
+
+4. WE ARE STARTING WITH "abouteden" AND "edensservices" IN TERMS OF 
+FULL HTML BUILD.
+
+5. Building an ACCORDION for edensservices.html using this site as our guide: 
+https://www.w3schools.com/howto/howto_js_accordion.asp
+Apparently they are considered to be buttons. As opposed to list items <li></li>
+Apparently I am also entering the world of JavaScript and JQuery with this 
+Accordion thing.
+
+
+
+
+
+Viewport fix for Windows Phone
+https://trentwalton.com/2013/01/16/windows-phone-8-viewport-fix/
+
+Initial-Scale=1
+https://css-tricks.com/probably-use-initial-scale1/
+
+JavaScript Cheat Sheet
+https://www.dummies.com/programming/java/javascript-for-dummies-cheat-sheet/
+
+
+
+GODADDY USERNAME: cdfelix@edens-care.co.uk
+

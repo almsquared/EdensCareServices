@@ -1,0 +1,91 @@
+/*LOGO LEFT NAV RIGHT - OPEN */
+
+nav{
+  margin: 0;
+  overflow:hidden;
+  text-align: center;
+}
+
+nav ul{
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li{
+  display: inline-block;
+  list-style-type: circle;
+}
+
+nav > ul > li > a{
+  color: #000000;
+  display: block;
+  line-height: 2em;
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+-----------
+.logo-img{
+  float: left;
+  position: relative;
+  margin: 0;
+  /*margin: 10px 15px 15px 10px;*/
+}
+.header-div{
+  background:#ffffff;
+}
+/*LOGO LEFT NAV RIGHT - OPEN */
+
+
+/* EDENSSERVICES.HTML - ACCORDION - OPEN */
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+/* EDENSSERVICES.HTML - ACCORDION - CLOSE */
+
+/* FONTS - OPEN */
+
+h1 {
+  font-family: "Maven Pro", Arial, sans-serif;
+  font-size: 2em;
+}
+
+p {
+  font-family: "Maven Pro", Arial, sans-serif;
+  font-size: 1.25em;
+}
+
+button {
+  font-family: "Maven Pro", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+li {
+  font-family: "Maven Pro", Arial, sans-serif;
+  font-size: 1.15em;
+}
+
+/* FONTS - CLOSE */
